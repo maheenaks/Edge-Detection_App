@@ -21,7 +21,7 @@ Users can:
 
 
  Tools and Libraries (REQUIRMENTS)
--> Python 3
+-> Python 
 -> Streamlit
 -> OpenCV
 -> NumPy
